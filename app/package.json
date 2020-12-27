@@ -1,0 +1,15 @@
+{
+  "name": "puppeter-lambda",
+  "version": "1.0.0",
+  "description": "simple puppeter lambda",
+  "main": "app.js",
+  "keywords": ["aws","lambda","chromium","puppeteer"],
+  "author": "David Balan",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-lambda-ric": "^1.0.0"
+  },
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
